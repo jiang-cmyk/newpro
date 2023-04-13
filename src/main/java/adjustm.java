@@ -12,8 +12,6 @@ import joinery.DataFrame;
 
 public class adjustm {
 
-	
-	
 	public static String getmin_maxPath =null;
 	
 	public static void set_rsfpath(String path) {
