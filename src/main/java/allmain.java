@@ -26,7 +26,7 @@ public class allmain {
 		String Input = "C:\\Users\\jiang\\Documents\\WeChat Files\\wxid_pueqh3fdguqv22\\FileStorage\\File\\2023-02";
 		String Output = "C:/Users/jiang/Desktop/Output";
 		Date stdate =new SimpleDateFormat("yyyy-MM-dd").parse("2022-12-24");
-		Date endate =new SimpleDateFormat("yyyy-MM-dd").parse("2023-02-03");
+		Date endate =new SimpleDateFormat("yyyy-MM-dd").parse("2023-01-25");
 		
 		String f="file:///";
 		contenst.setStdate(stdate);
